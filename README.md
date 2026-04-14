@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crop Yield Prediction
 
 A modern Streamlit regression dashboard for crop yield prediction. The entire application lives in a single file, `pipeline.py`.
@@ -21,3 +22,6 @@ streamlit run pipeline.py
 - Prediction form for crop yield estimation
 - SQLite history for saved predictions
 
+=======
+# CropSense
+>>>>>>> b21429887b7196b9eb246da390783e0ee044e84e
